@@ -31,7 +31,7 @@ Follow these steps to get your Unich Miner Bot up and running:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/cryptodai3/Unich-Miner-Bot
+git clone https://github.com/cryptodai3/Unich-Miner-Bot.git  
 ````
 ```bash
 cd Unich-Miner-Bot
